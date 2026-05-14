@@ -1,22 +1,37 @@
 # Hi, I'm Balaji Mummidi 👋
 
-🎓 Master of Information Technology (Data Analytics) — Swinburne University of Technology, Melbourne
+### Data Analyst | Python • SQL • Tableau • Power BI | Melbourne, Australia 🇦🇺
 
-📊 Data Analyst passionate about turning raw data into meaningful insights that drive decisions
+🎓 Master of Information Technology (Data Analytics) — Swinburne University of Technology
+
+📊 Passionate about turning raw data into meaningful insights that drive strategic decisions
+
+🔍 Experienced in data cleaning, transformation, visualisation, and analysis
+
+🌱 Currently exploring Machine Learning and advanced analytics techniques
+
+💬 Ask me about **Python, SQL, Tableau, Power BI, Pandas**
+
+📫 Reach me at **balajimummidi99@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages and Tools
 
-**Languages:** Python | HTML & CSS
-
-**Databases:** Microsoft SQL Server
-
-**Analytics & Visualisation:** Tableau | Power BI | Pandas | NumPy | Matplotlib | Seaborn
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 🔹 **Data Analysis on Food Ordering Application**
 Analysed customer satisfaction on the Swiggy platform using Power BI to uncover trends in delivery, pricing and food quality.
@@ -26,12 +41,10 @@ Scraped and analysed Cars24 data using Pandas, NumPy, Matplotlib and Seaborn to 
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/balaji-mummidi/)
-📧 balajimummidi99@gmail.com
-📍 Melbourne, VIC, Australia
-
----
-
-⚡ *Always learning. Always growing.*
+<p align="left">
+  <a href="https://www.linkedin.com/in/balaji-mummidi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+</p>
